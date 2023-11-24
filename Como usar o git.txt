@@ -1,0 +1,30 @@
+1-pesquisar credenciais na barra de pesquisa
+
+2-apagar as credenciais do user antigo do github
+
+
+3-Configurar Usuário
+
+git config --global user.name   nome-do-usuario  
+
+
+4-configurar email
+
+git config --global user.email  email-do-usuario
+
+
+5-confirmar usuário configurado
+
+ git config user.name
+  
+6-confirmar email configurado
+
+git config user.email
+
+7- Inicializar repositório local
+
+git init
+
+8- adicionar repositorio
+
+git add .
